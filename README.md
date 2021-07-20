@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohilrajkarki
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning and working on flutter
+- 🌱 I’m currently learning and working on flutter and reactjs
 
 
 <!---
